@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "addons": [
+    {
+      "id": "controlbar-pro",
+      "name": "ControlBar Pro",
+      "author": "FAS and xezon (GenTool)",
+      "summary": "A wide-screen control bar with a bigger selection area and a larger minimap.",
+      "description": "Replaces the in-game control bar with a wide-screen layout: more room to select units, a larger radar map and redrawn panel textures. Only the client's windows and images change, so it is fine in online games whether or not the others have it. Best at 1920 x 1080. Source: github.com/xezon/GeneralsControlBar.",
+      "home": "https://www.gentool.net/download/controlbarpro/",
+      "images": [
+        {
+          "url": "https://www.gentool.net/download/controlbarpro/images/ControlBarPro_v12_01.jpg",
+          "credit": "Picture: GenTool (gentool.net)"
+        },
+        {
+          "url": "https://www.gentool.net/download/controlbarpro/images/ControlBarPro_01.jpg",
+          "credit": "Picture: GenTool (gentool.net)"
+        },
+        {
+          "url": "https://www.gentool.net/download/controlbarpro/images/ControlBarPro_v12_03.jpg",
+          "credit": "Picture: GenTool (gentool.net)"
+        }
+      ],
+      "archives": ["340_ControlBarProZH.big", "341_ControlBarPro.big", "340_ControlBarPro1080ZH.big"],
+      "online": "looks",
+      "download": {
+        "url": "https://www.gentool.net/download/controlbarpro/1.1/ControlBarProZH_v1.1.zip",
+        "file": "ControlBarProZH_v1.1.zip",
+        "size": 4569472,
+        "sha256": "532b308fdeefce8dfbbbb1dda102cfeb628f8b520b23f4e226ca0206dd38e9fe",
+        "pack": "ControlBar Pro"
+      }
+    },
+    {
+      "id": "controlbar-hd",
+      "name": "ControlBar HD",
+      "author": "xezon (GenTool)",
+      "summary": "The control bar's art redrawn at a higher resolution.",
+      "description": "Sharper button images and panel textures for the control bar on today's screens. Textures four times the size of the originals, so it only shows at high resolutions; nothing about the game's rules changes, so it is fine in online games whether or not the others have it. Source: github.com/TheSuperHackers/GeneralsControlBar.",
+      "home": "https://www.gentool.net/download/controlbar/",
+      "images": [
+        {
+          "url": "https://www.gentool.net/download/controlbar/ControlBarHDZH.jpg",
+          "credit": "Picture: GenTool (gentool.net)"
+        }
+      ],
+      "archives": ["401_ControlBarHD.big", "400_ControlBarHDBaseZH.big", "400_ControlBarHDEnglishZH.big"],
+      "online": "looks",
+      "download": {
+        "url": "https://www.gentool.net/download/controlbar/1.1/ControlBarHDZH_v1.1_English.zip",
+        "file": "ControlBarHDZH_v1.1_English.zip",
+        "size": 7494908,
+        "sha256": "fd055a7c122866d50100f87be62a55e3457024e68d50f4619fbbd679bdd8b1db",
+        "pack": "ControlBar HD"
+      }
+    },
+    {
+      "id": "expanded-lan-lobby",
+      "name": "Expanded LAN Lobby Menu",
+      "author": "Community content shipped with GenPatcher",
+      "summary": "A network lobby that shows more games and players at once.",
+      "description": "Replaces two menu layouts (the LAN lobby and the game information window) with taller ones. Nothing about the game itself changes, so it is fine in online games whether or not the others have it. GenPatcher offers it under Additional Content; the archive it installs can be added as a pack.",
+      "home": "https://legi.cc/genpatcher/",
+      "images": [],
+      "archives": ["311_ExpandedLANLobbyMenu.big"],
+      "online": "looks"
+    }
+  ]
+}
